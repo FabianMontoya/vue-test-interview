@@ -1,10 +1,9 @@
 <script setup lang="ts">
-import HelloWorld from './components/HelloWorld.vue';
+import Products from "./components/Products.vue"
 </script>
 
 <template>
   <div>
-    <h1 class="text-3xl font-bold underline">Hello world!</h1>
-    <HelloWorld msg="Vite + Vue" />
+      <Products />
   </div>
 </template>
