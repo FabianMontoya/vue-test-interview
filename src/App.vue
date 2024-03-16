@@ -3,7 +3,7 @@ import Products from "./components/Products.vue"
 </script>
 
 <template>
-  <div>
+  <main class="container p-4 mx-auto">
       <Products />
-  </div>
+  </main>
 </template>
